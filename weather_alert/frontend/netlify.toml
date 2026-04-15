@@ -1,4 +1,0 @@
-[[redirects]]
-  from   = "/weather/u/*"
-  to     = "/weather/index.html"
-  status = 200
